@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 2: Supervised Learning — Regression and Classification
 
 This folder adds the Week 2 assignments and Mini Project 2. It includes a linear regression house price model, a Titanic logistic regression classifier, and comparisons with decision tree and random forest models.
@@ -33,3 +34,7 @@ python -m pip install -r requirements.txt
 ```
 
 The scripts require pandas, matplotlib, and scikit-learn. `train.csv` is not included; download it from Kaggle as described above.
+=======
+# House-Price-Prediction-Model
+A Machine Learning project that predicts house prices using Linear Regression. The model is trained on the Kaggle House Prices dataset and evaluated using R² score. Includes data preprocessing, model training, prediction, performance evaluation, and visualization of predicted vs actual house prices.
+>>>>>>> de3d23366f81adefdb03f665025fc52e98e9584b
